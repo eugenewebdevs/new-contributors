@@ -19,6 +19,6 @@ To contribute you will need:
 Contributions can be as small as typo fixes and as large as the code changes gto front faceing projects.
 
 
-## Avaiable Issues
+## Available Issues
 
 Eugene Web Devs Website: https://github.com/eugenewebdevs/website/labels/new%20contributor
