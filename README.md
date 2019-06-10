@@ -22,3 +22,8 @@ Contributions can be as small as typo fixes and as large as the code changes to 
 ## Available Issues
 
 Eugene Web Devs Website: https://github.com/eugenewebdevs/website/labels/new%20contributor
+
+
+## Reasources for more Open Source Projects
+
+https://up-for-grabs.net
