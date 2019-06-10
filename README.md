@@ -43,3 +43,5 @@ These repos may not always have issues
 https://up-for-grabs.net
 
 https://www.codetriage.com/
+
+https://github.com/firstcontributions/first-contributions
