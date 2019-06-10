@@ -19,7 +19,7 @@ To contribute you will need:
 Contributions can be as small as typo fixes and as large as the code changes to front faceing projects.
 
 
-## Available Issues
+## Available Repos Issues
 
 Eugene Web Devs Website: https://github.com/eugenewebdevs/website/labels/new%20contributor
 
