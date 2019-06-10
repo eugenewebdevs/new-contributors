@@ -29,7 +29,9 @@ To contribute you will need:
 
 
 
-## Available Repos Issues
+## Available Issues
+
+These repos may not always have issues
 
 Eugene Web Devs Website: https://github.com/eugenewebdevs/website/labels/new%20contributor
 
