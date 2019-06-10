@@ -33,7 +33,10 @@ To contribute you will need:
 
 These repos may not always have issues
 
-Eugene Web Devs Website: https://github.com/eugenewebdevs/website/labels/new%20contributor
+### Eugene Web Devs
+
+* https://github.com/eugenewebdevs/website/labels/new%20contributor
+* https://github.com/eugenewebdevs/Sponsorship/issues
 
 
 ## Reasources for more Open Source Projects
