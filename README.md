@@ -26,6 +26,7 @@ The following repositories have agreed to open issues with the label "new contri
 To contribute you will need:
 
 * A github account
+* Employ the standard fork -> clone -> edit -> PR workflow as described [here](https://github.com/firstcontributions/first-contributions)
 
 
 
