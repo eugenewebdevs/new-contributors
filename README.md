@@ -24,7 +24,7 @@ The following repositories have agreed to open issues with the label "new contri
 
 To contribute you will need:
 
-* A github account x :octocat:
+* A github account :octocat:
 * Use of git (GUI or command line)
 * Employ the standard fork -> clone -> edit -> PR workflow as described [here](https://github.com/firstcontributions/first-contributions)
 * Adhere to the [EugeneWebDevs Code of Conduct](https://github.com/eugenewebdevs/about/blob/master/CodeOfConduct.md)
