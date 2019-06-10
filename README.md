@@ -2,7 +2,7 @@
 
 ## About
 
-Local open source projects looking for brand new contributors. 
+Local (Eugene, OR) open source projects looking for brand new contributors. 
 
 Specificlly for those looking to contribute to open source for the first time.
 
