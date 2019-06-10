@@ -39,7 +39,7 @@ These repos may not always have issues, PRs make take time for approval. 🐌
 * [EugeneWebDevs.com Repo](https://github.com/eugenewebdevs/website/labels/new%20contributor)
 * [Sponsorship Repo](https://github.com/eugenewebdevs/Sponsorship/issues?q=is%3Aissue+is%3Aopen+label%3A%22new+contributor%22)
 
-## Reasources for more Open Source Projects
+## Resources for more Open Source Projects
 
 https://up-for-grabs.net
 
