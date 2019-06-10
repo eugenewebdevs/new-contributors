@@ -12,11 +12,11 @@ Contributions can be as small as typo fixes and as large as the code changes to 
 
 Issues should be:
 
-* small (less than an hour)
-* very descriptive
-* not related to essential functionality of an application
-* locally testable
-* not include or deal with security
+* small (less than an hour) 🕐
+* very descriptive 📄
+* not related to essential functionality of an application 🔌
+* locally testable 💻
+* not include or deal with security 🔓
 
 ## Required
 
@@ -24,14 +24,15 @@ The following repositories have agreed to open issues with the label "new contri
 
 To contribute you will need:
 
-* A github account
+* A github account x :octocat:
 * Use of git (GUI or command line)
 * Employ the standard fork -> clone -> edit -> PR workflow as described [here](https://github.com/firstcontributions/first-contributions)
+* Adhere to the [EugeneWebDevs Code of Conduct](https://github.com/eugenewebdevs/about/blob/master/CodeOfConduct.md)
 
 
 ## Available Issues
 
-These repos may not always have issues
+These repos may not always have issues, PRs make take time for approval.
 
 ### Eugene Web Devs
 
