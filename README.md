@@ -35,8 +35,8 @@ These repos may not always have issues
 
 ### Eugene Web Devs
 
-* https://github.com/eugenewebdevs/website/labels/new%20contributor
-* https://github.com/eugenewebdevs/Sponsorship/issues?q=is%3Aissue+is%3Aopen+label%3A%22new+contributor%22
+* [EugeneWebDevs.com Repo](https://github.com/eugenewebdevs/website/labels/new%20contributor)
+* [Sponsorship Repo](https://github.com/eugenewebdevs/Sponsorship/issues?q=is%3Aissue+is%3Aopen+label%3A%22new+contributor%22)
 
 
 ## Reasources for more Open Source Projects
