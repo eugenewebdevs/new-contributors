@@ -32,7 +32,7 @@ To contribute you will need:
 
 ## Available Issues
 
-These repos may not always have issues, PRs make take time for approval.
+These repos may not always have issues, PRs make take time for approval. 🐌
 
 ### Eugene Web Devs
 
