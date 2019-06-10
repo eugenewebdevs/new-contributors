@@ -18,7 +18,6 @@ Issues should be:
 * locally testable
 * not include or deal with security
 
-
 ## Required
 
 The following repositories have agreed to open issues with the label "new contribnutors". These are small code changes specificly for those new to opens source, github, pull requests, etc...
@@ -26,8 +25,8 @@ The following repositories have agreed to open issues with the label "new contri
 To contribute you will need:
 
 * A github account
+* Use of git (GUI or command line)
 * Employ the standard fork -> clone -> edit -> PR workflow as described [here](https://github.com/firstcontributions/first-contributions)
-
 
 
 ## Available Issues
@@ -38,7 +37,6 @@ These repos may not always have issues
 
 * [EugeneWebDevs.com Repo](https://github.com/eugenewebdevs/website/labels/new%20contributor)
 * [Sponsorship Repo](https://github.com/eugenewebdevs/Sponsorship/issues?q=is%3Aissue+is%3Aopen+label%3A%22new+contributor%22)
-
 
 ## Reasources for more Open Source Projects
 
